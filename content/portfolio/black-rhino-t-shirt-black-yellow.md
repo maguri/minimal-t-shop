@@ -9,7 +9,7 @@ weight = 1
 
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+<!-- <section id="image-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
@@ -20,7 +20,7 @@ Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 			</li>
 		</ul>
   </div>
-</section>
+</section> -->
 
 <stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb">
 
