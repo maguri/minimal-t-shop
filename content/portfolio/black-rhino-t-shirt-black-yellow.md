@@ -6,6 +6,7 @@ image = "img/portfolio/IMG_1454.png"
 showonlyimage = false
 weight = 1
 +++
+
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
 <section id="image-carousel" class="splide" aria-label="Beautiful Images">
@@ -20,8 +21,6 @@ Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 		</ul>
   </div>
 </section>
-
-Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
 <stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb">
 
@@ -52,6 +51,3 @@ Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 <div class="alert alert-danger" role="alert">
   <strong>Entrega solo España</strong>. Para pedidos automáticos solo se entrega en la península o islas con gastos de envío adicionales. Si tiene alguna duda, <a href="/contact">puede preguntarnos</a>!
 </div>
-<script>
-  new Splide( '#image-carousel' ).mount();
-</script>
