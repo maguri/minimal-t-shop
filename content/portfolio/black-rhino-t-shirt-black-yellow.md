@@ -21,7 +21,7 @@ Camiseta Negra Simple con Bordado Black Rhino color Amarillo
   </div>
 </section>
 
-<stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb" />
+<!-- <stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb" /> -->
 
 > Black Rhino Bordado T Shirt / **14.00 €**
 
