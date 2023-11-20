@@ -10,6 +10,8 @@
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/owl.carousel.css">
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/owl.theme.css">
+<link href="https://www.blackrhinoo.com/css/splide.min.css" rel="stylesheet">
+
 
 
   <link href="https://www.blackrhinoo.com/css/style.violet.css" rel="stylesheet" id="theme-stylesheet">
@@ -45,7 +47,7 @@
       
         <li><a href="https://www.blackrhinoo.com/portfolio/">Tienda Online</a></li>
       
-        <li><a href="https://www.blackrhinoo.com/about/">Colaboradores</a></li>
+        <li><a href="https://www.blackrhinoo.com/about/">Descuentos / Comunidad</a></li>
       
         <li><a href="https://www.blackrhinoo.com/contact/">Contacto</a></li>
       
@@ -110,14 +112,28 @@
     <div class="col-lg-8">
       <div class="content-column-content">
          <h1>T-SHIRT BLACK RHINO BORDADO</h1>
-         <p>Camiseta Simple con Bordado Black Rhino color Negro</p>
-<p><img src="/img/portfolio/business-card-26.jpg" alt=""></p>
-<stripe-buy-button buy-button-id="buy_btn_1Nhq5lJbgUfTyADgN2i9DKNK" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb">
+         <section id="image-carousel" class="splide" aria-label="Beautiful Images">
+  <div class="splide__track">
+		<ul class="splide__list">
+			<li class="splide__slide">
+				<img src="/img/portfolio/IMG_1454.png" alt=""/>
+			</li>
+			<li class="splide__slide">
+				<img src="/img/portfolio/IMG_1454-BACK.png" alt=""/>
+			</li>
+		</ul>
+  </div>
+</section>
+<p>Camiseta Negra Simple con Bordado Black Rhino color Amarillo</p>
+<stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb">
 <blockquote>
-<p>Black Rhino Bordado T Shirt / <strong>11.00 €</strong></p>
+<p>Black Rhino Bordado T Shirt / <strong>14.00 €</strong></p>
 </blockquote>
 <blockquote>
 <p>100% Algodón, <strong>Color Negro</strong></p>
+</blockquote>
+<blockquote>
+<p>Logo Bordado, <strong>Color Amarillo</strong></p>
 </blockquote>
 <h5 id="descripción-de-la-ropa">Descripción de la Ropa</h5>
 <ul>
@@ -127,12 +143,18 @@
 <li>Doble pespunte en cuello, bajo y mangas que aumenta su resistencia.</li>
 <li>Cinta interior de hombro a hombro que refuerza su estructura y reduce la deformación.</li>
 </ul>
+<div class="alert alert-info" role="alert">
+  <strong>¿Como comprar más de 1 artículo?</strong>. Si quieres comprar más de 1 prenda de ropa, <a href="/contact">contacta con nosotros</a> y te mandaremos un link de compra personalizado y con descuento si nos caes bien.
+</div>
 <div class="alert alert-warning" role="alert">
   <strong>Condiciones de Stock</strong>. Si el diseño no está en stock, procederemos a fabricar el pedido solo para usted, la producción puede demorar de 3 a 5 días hábiles antes del envío. Si tiene algún problema con su pedido, comuníquese <a href="/contact">con nosotros</a>.
 </div>
 <div class="alert alert-danger" role="alert">
   <strong>Entrega solo España</strong>. Para pedidos automáticos solo se entrega en la península o islas con gastos de envío adicionales. Si tiene alguna duda, <a href="/contact">puede preguntarnos</a>!
 </div>
+<script>
+  new Splide( '#image-carousel' ).mount();
+</script>
          
       </div>
     </div>
@@ -151,19 +173,26 @@
 <script src="https://www.blackrhinoo.com/js/imagesloaded.pkgd.min.js"></script>
 <script src="https://www.blackrhinoo.com/js/owl.carousel.min.js"></script>
 <script src="https://www.blackrhinoo.com/js/front.js"></script>
+<script src="https://www.blackrhinoo.com/js/splide.min.js"></script>
+
+
+
 
 <script src="https://js.stripe.com/v3/buy-button.js"> </script>
-
-
-
-
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-
-
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
     channel: "lomaurii"
   });
 </script>
+
+
+<script type="text/javascript">
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel' ).mount();
+  } );
+</script>
+
+
 </body>
 </html>

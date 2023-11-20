@@ -10,6 +10,8 @@
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/font-awesome.min.css">
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/owl.carousel.css">
 <link rel="stylesheet" href="https://www.blackrhinoo.com/css/owl.theme.css">
+<link href="https://www.blackrhinoo.com/css/splide.min.css" rel="stylesheet">
+
 
 
   <link href="https://www.blackrhinoo.com/css/style.violet.css" rel="stylesheet" id="theme-stylesheet">
@@ -47,7 +49,7 @@
       
         <li><a href="https://www.blackrhinoo.com/portfolio/">Tienda Online</a></li>
       
-        <li><a href="https://www.blackrhinoo.com/about/">Colaboradores</a></li>
+        <li><a href="https://www.blackrhinoo.com/about/">Descuentos / Comunidad</a></li>
       
         <li><a href="https://www.blackrhinoo.com/contact/">Contacto</a></li>
       
@@ -111,13 +113,17 @@
   <div class="row">
     <div class="col-lg-8">
       <div class="content-column-content">
-         <h1>Nuestro Grupo</h1>
-         <p>Nuestro objetivo es juntado a algunos streamers de la comunidad <strong>twitch</strong> para crear ropa divertida de llevar, camisetas y sudaderas con contenido de tus directos favoritos.</p>
+         <h1>Vienvenido a esta pequeña Comunidad</h1>
+         <p>Nuestro objetivo es juntar a streamers de la comunidad <strong>twitch</strong> para crear ropa divertida de llevar, camisetas y sudaderas con contenido de tus directos favoritos.</p>
 <div id="twitch-embed"></div>
+<div class="alert alert-info" role="alert">
+  <strong>Descuentos</strong>. Sigue a tu streamer para conseguir <strong>Cupones de Descuento</strong> disponibles durante el <a href="https://www.twitch.tv/lomaurii">Directo en Twitch</a>.
+</div>
 <h4 id="streamers">Streamers</h4>
 <ul>
-<li>Lomaurii</li>
-<li>&hellip;</li>
+<li><a href="https://www.twitch.tv/lomaurii">Lomaurii</a></li>
+<li>&hellip; 🐍</li>
+<li>&hellip; 👨‍🎨🎨</li>
 </ul>
 <p>Si quieres unirte a nuestro grupo como streamer o diseñar contenido para nuestra tienda, ponte en contact con nosotros.</p>
 <!-- Add a placeholder for the Twitch embed -->
@@ -140,19 +146,26 @@
 <script src="https://www.blackrhinoo.com/js/imagesloaded.pkgd.min.js"></script>
 <script src="https://www.blackrhinoo.com/js/owl.carousel.min.js"></script>
 <script src="https://www.blackrhinoo.com/js/front.js"></script>
+<script src="https://www.blackrhinoo.com/js/splide.min.js"></script>
+
+
+
 
 <script src="https://js.stripe.com/v3/buy-button.js"> </script>
-
-
-
-
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-
-
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
     channel: "lomaurii"
   });
 </script>
+
+
+<script type="text/javascript">
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel' ).mount();
+  } );
+</script>
+
+
 </body>
 </html>
