@@ -24,7 +24,7 @@ jobs:
         run: |
           ls -la
           hugo -s .
-          echo "" >> public/CNAME
+          echo "www.blackrhinoo.com" >> public/CNAME
 
       - name: Check
         run: |
