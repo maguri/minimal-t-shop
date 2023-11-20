@@ -1,1 +1,5 @@
 /* your styles go here */
+.splide__slide img {
+    width: 100%;
+    height: auto;
+  }

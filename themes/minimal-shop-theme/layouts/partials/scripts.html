@@ -7,19 +7,28 @@
 <script src="{{ "js/imagesloaded.pkgd.min.js" | absURL }}"></script>
 <script src="{{ "js/owl.carousel.min.js" | absURL }}"></script>
 <script src="{{ "js/front.js" | absURL }}"></script>
-
-<script src="https://js.stripe.com/v3/buy-button.js"> </script>
+<script src="{{ "js/splide.min.js" | absURL }}"></script>
 
 {{ if .Site.Params.analytics.matomo }}
   {{ partial "_analytics/matomo.html" . }}
 {{ end }}
 
-<!-- Load the Twitch embed script -->
+<!-- Twitch scripts -->
+<script src="https://js.stripe.com/v3/buy-button.js"> </script>
 <script src="https://player.twitch.tv/js/embed/v1.js"></script>
-
-<!-- Create a Twitch.Player object. This will render within the placeholder div -->
 <script type="text/javascript">
   new Twitch.Player("twitch-embed", {
     channel: "lomaurii"
   });
 </script>
+
+<!-- Image Carousel -->
+<script type="text/javascript">
+  document.addEventListener( 'DOMContentLoaded', function () {
+    new Splide( '#image-carousel' ).mount();
+  } );
+</script>
+
+<!-- <script>
+  new Splide( '#image-carousel' ).mount();
+</script> -->

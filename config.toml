@@ -51,7 +51,7 @@ unsafe = true
   home = true
 
   [[params.navlinks]]
-  name = "Colaboradores"
+  name = "Descuentos / Comunidad"
   url = "about/"
 
   [[params.navlinks]]
