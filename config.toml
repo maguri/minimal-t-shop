@@ -47,7 +47,7 @@ unsafe = true
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Tienda Online"
-  url = "catalog/"
+  url = "portfolio/"
   home = true
 
   [[params.navlinks]]
@@ -62,7 +62,7 @@ unsafe = true
   twitch        = "https://www.twitch.tv/lomaurii"
   ## email      = "email@example.com"
   twitter       = "https://twitter.com/lomaurii_tv"
-  tiktok        = "https://www.tiktok.com/@lomauriii"
+  ## tiktok        = "https://www.tiktok.com/@lomauriii"
   instagram     = "https://www.instagram.com/lomaurii/"
   youtube       = "https://www.youtube.com/channel/UCEluw2wlBak9NJMzMWZZ8JQ"
   coffe         = "https://streamelements.com/lomaurii/tip"
