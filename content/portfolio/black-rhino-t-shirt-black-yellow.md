@@ -6,6 +6,7 @@ image = "img/portfolio/IMG_1454.png"
 showonlyimage = false
 weight = 1
 +++
+Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
 <section id="image-carousel" class="splide" aria-label="Beautiful Images">
   <div class="splide__track">
