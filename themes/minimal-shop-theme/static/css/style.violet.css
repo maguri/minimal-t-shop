@@ -414,12 +414,7 @@ SIDEBAR + RIGHT COLUMN
 .content-column-content ul li {
   list-style-type: none;
 }
-.content-column-content ul li:before {
-  font-family: 'FontAwesome';
-  content: '\f105';
-  margin: 0 5px 0 -15px;
-  color: #9055a2;
-}
+
 .small-navbar {
   margin-bottom: 20px;
 }

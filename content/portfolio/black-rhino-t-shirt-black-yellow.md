@@ -5,23 +5,29 @@ draft = false
 image = "img/portfolio/IMG_1454.png"
 showonlyimage = false
 weight = 1
+description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
 +++
+
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
-<section id="image-carousel" class="splide" aria-label="Beautiful Images">
+---
+<section id="image-carousel" class="splide splide-custom" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-				<img src="/img/portfolio/IMG_1454.png" alt="" class="img-responsive" />
+				<img src="/img/portfolio/IMG_1454.png" alt="camiseta-de-moda" class="img-responsive" />
 			</li>
 			<li class="splide__slide">
-				<img src="/img/portfolio/IMG_1454-BACK.png" alt="" class="img-responsive" />
+				<img src="/img/portfolio/brodat/IMG_1311.png" alt="logo-bordado" class="img-responsive" />
+			</li>
+			<li class="splide__slide">
+				<img src="/img/portfolio/IMG_1454-BACK.png" alt="camiseta-de-moda-twitch" class="img-responsive" />
 			</li>
 		</ul>
   </div>
 </section>
 
-<!-- <stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb" /> -->
+<stripe-buy-button buy-button-id="buy_btn_1OEWIFJbgUfTyADg7TFPdeH5" publishable-key="pk_live_51J0NgaJbgUfTyADgmGvhm8jdFCyUKjNYXKAp31ypJBJUgOtduxslX2izO1uhhADBZoA7pWMHEBa17bZLfSOfS8ZF00aCIEt6Pb"></stripe-buy-button>
 
 > Black Rhino Bordado T Shirt / **14.00 €**
 

@@ -1,6 +1,6 @@
 +++
 date = "2023-11-05T21:05:33+05:30"
-title = "Vienvenido a esta pequeña Comunidad"
+title = "Bienvenido a esta pequeña Comunidad"
 +++
 
 Nuestro objetivo es juntar a streamers de la comunidad **twitch** para crear ropa divertida de llevar, camisetas y sudaderas con contenido de tus directos favoritos.
