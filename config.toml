@@ -15,7 +15,7 @@ unsafe = true
   # Style options: default (pink), blue, green, pink, red, sea, violet
   # Use custom.css for your custom styling
   style = "violet"
-  description = "Tiende Online de la ropa más Viral"
+  description = "Black Rhinio, la tiende Online de la ropa más Viral. Compra y Siseña camisetas de tu streamer favorito. Comprar Camisetas con diseños divertidos, Comprar Sudaderas, Comprar Jerseis, Diseños personalizados."
   copyright = "&copy;2023 Black Rhino con el Soporte de Lomaurii"
   sidebarAbout = [
     "Tienda para auténticos supervivientes de internet. Ediciones Limitadas, Especial Eventos Twitch, Memes, ropa casual, Wives",
