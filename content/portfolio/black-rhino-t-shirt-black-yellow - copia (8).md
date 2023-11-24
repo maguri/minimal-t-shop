@@ -1,8 +1,8 @@
 +++
-date = "2023-11-05T00:02:00+00:00"
+date = "2023-11-05T00:01:00+00:00"
 title = "T-SHIRT BLACK RHINO BORDADO"
 draft = false
-image = "img/portfolio/IMG_1454.png"
+image = "img/portfolio/SW-BL-M.png"
 showonlyimage = false
 weight = 1
 description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
@@ -10,6 +10,7 @@ description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
 
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
+---
 <section id="image-carousel" class="splide splide-custom" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">

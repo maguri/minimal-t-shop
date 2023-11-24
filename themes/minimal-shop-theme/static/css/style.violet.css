@@ -24,12 +24,12 @@ section {
   padding-bottom: 90px;
 }
 section.background-gray-lighter {
-  background: #cdcdcd;
+  background: #fff;
 }
 section.background-gray-lightest {
-  background: #f7f7f7;
-  border-top: solid 1px #cdcdcd;
-  border-bottom: solid 1px #cdcdcd;
+  background: #fff;
+  border-top: solid 1px #fff;
+  border-bottom: solid 1px #fff;
 }
 section.background-secondary {
   background: #566682;
@@ -826,7 +826,7 @@ a:active {
   background: #fff;
   margin-bottom: 30px;
   position: relative;
-  box-shadow: 0 0 5px #ccc;
+  /* box-shadow: 0 0 5px #ccc; */
   -webkit-transition: all 0.2s ease-out;
   -moz-transition: all 0.2s ease-out;
   transition: all 0.2s ease-out;
@@ -912,7 +912,8 @@ a:active {
   display: block;
   position: relative;
   min-height: 100px;
-  background: #ccc;
+  background: transparent;
+
 }
 .box-masonry .box-masonry-image.with-hover-overlay:before {
   display: block;
@@ -1583,7 +1584,7 @@ body {
   font-size: 16px;
   line-height: 1.55;
   color: #000000;
-  background-color: #f4f4f4;
+  background-color: #fff;
 }
 a {
   color: #9055a2;
