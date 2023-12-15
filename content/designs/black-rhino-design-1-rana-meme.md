@@ -1,8 +1,8 @@
 +++
 date = "2023-11-05T00:01:00+00:00"
-title = "T-SHIRT BLACK RHINO BORDADO"
+title = "T-SHIRT MEME FRIENDLY 1"
 draft = false
-image = "img/portfolio/SW-BL-GR.png"
+image = "img/portfolio/friendly-jersey-front.png"
 showonlyimage = false
 weight = 1
 description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"

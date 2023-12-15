@@ -1,11 +1,12 @@
 +++
 date = "2023-11-05T00:01:00+00:00"
-title = "T-SHIRT BLACK RHINO BORDADO"
+title = "CAMISETAS / T-SHIRT"
 draft = false
 image = "img/portfolio/JS-BLACK-GR.png"
 showonlyimage = false
 weight = 1
 description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
+link = "/colections/colection1"
 +++
 
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo

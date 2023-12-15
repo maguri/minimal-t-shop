@@ -1,23 +1,25 @@
 +++
-date = "2023-11-05T00:01:59+00:00"
-title = "T-SHIRT BLACK RHINO BORDADO"
+date = "2023-11-05T00:01:00+00:00"
+title = "CAMISETAS / T-SHIRT"
 draft = false
 image = "img/portfolio/JS-BLACK-YL.png"
 showonlyimage = false
 weight = 1
 description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
+link = "/colections/colection1"
 +++
 
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
 
+---
 <section id="image-carousel" class="splide splide-custom" aria-label="Beautiful Images">
   <div class="splide__track">
 		<ul class="splide__list">
 			<li class="splide__slide">
-				<img src="/img/portfolio/IMG_BL-GR-FRONT.png" alt="camiseta-de-moda" class="img-responsive" />
+				<img src="/img/portfolio/IMG_1454.png" alt="camiseta-de-moda" class="img-responsive" />
 			</li>
 			<li class="splide__slide">
-				<img src="/img/portfolio/brodat/IMG_1312.png" alt="logo-bordado" class="img-responsive" />
+				<img src="/img/portfolio/brodat/IMG_1311.png" alt="logo-bordado" class="img-responsive" />
 			</li>
 			<li class="splide__slide">
 				<img src="/img/portfolio/IMG_1454-BACK.png" alt="camiseta-de-moda-twitch" class="img-responsive" />

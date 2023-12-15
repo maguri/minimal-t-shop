@@ -47,16 +47,19 @@ unsafe = true
   # Nav links in the side bar
   [[params.navlinks]]
   name = "Tienda Online"
-  url = "portfolio/"
+  url = "colections/"
   home = true
+  show = true
 
   [[params.navlinks]]
-  name = "Descuentos / Comunidad"
+  name = "Comunidad"
   url = "about/"
+  show = true
 
   [[params.navlinks]]
   name = "Contacto"
   url = "contact/"
+  show = true
 
   [params.social]
   twitch        = "https://www.twitch.tv/lomaurii"
@@ -65,4 +68,4 @@ unsafe = true
   ## tiktok        = "https://www.tiktok.com/@lomauriii"
   instagram     = "https://www.instagram.com/lomaurii/"
   youtube       = "https://www.youtube.com/channel/UCEluw2wlBak9NJMzMWZZ8JQ"
-  coffe         = "https://www.paypal.com/donate/?hosted_button_id=C7U5VHKVQL8BN"
+  ## coffe         = "https://www.paypal.com/donate/?hosted_button_id=C7U5VHKVQL8BN"
