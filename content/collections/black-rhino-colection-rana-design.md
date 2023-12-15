@@ -5,7 +5,7 @@ draft = false
 image = "img/portfolio/friendly-jersey-front.png"
 showonlyimage = false
 weight = 1
-description = "Estampados de Diseños Meme"
+description = "Estampados de Diseños Meme por Lomaurii"
 link = "/designs"
 +++
 

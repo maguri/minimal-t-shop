@@ -1,11 +1,11 @@
 +++
 date = "2023-11-05T00:01:00+00:00"
-title = "JERSEIS BR"
+title = "SUDADERAS BR"
 draft = false
 image = "img/portfolio/SW-TWITCH.png"
 showonlyimage = false
 weight = 1
-description = "Colección Sudaderas Bordado Black Rhino"
+description = "Colección Sudaderas con Bordado Black Rhino"
 link = "/sudaderas"
 +++
 
