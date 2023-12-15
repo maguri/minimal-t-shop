@@ -2,7 +2,7 @@
 date = "2023-11-05T00:01:00+00:00"
 title = "JERSEIS BR"
 draft = false
-image = "img/colections/jerseis.jpeg"
+image = "img/collections/jerseis.jpeg"
 showonlyimage = false
 weight = 1
 description = "Colección Jerseis Simples Bordado Black Rhino"

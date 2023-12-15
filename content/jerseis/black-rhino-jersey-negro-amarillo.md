@@ -6,7 +6,6 @@ image = "img/portfolio/JS-BLACK-YL.png"
 showonlyimage = false
 weight = 1
 description = "Camiseta Negra Simple con Bordado Black Rhino color Amarillo"
-link = "/colections/colection1"
 +++
 
 Camiseta Negra Simple con Bordado Black Rhino color Amarillo
