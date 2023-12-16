@@ -8,3 +8,48 @@
   padding-top: 0px;
   padding-bottom: 40px;
 }
+
+/* navigation */
+.navbar-brand {
+    color: #444;
+    margin-top: 15px;
+    line-height: 1;
+  }
+
+.nav-link {
+  font-size: 16px;
+  font-weight: bold;
+  padding: 10px 20px !important;
+}
+
+.navbar-light {
+  color: #444;
+  list-style-type: none;
+}
+.navbar-nav {
+  color: #444;
+  list-style-type: none;
+  margin-top: 30px;
+}
+.nav-link {
+  color: #444;
+  list-style-type: none;
+}
+
+
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+  z-index: 1020;
+  background-color: beige;
+}
+
+.sidebar-content-img {
+  max-height: 24px;
+}
+
+.small-navbar-content-img {
+  max-height: 30px;
+  max-width: 30px;
+}

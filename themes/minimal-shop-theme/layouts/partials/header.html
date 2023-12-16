@@ -1,0 +1,22 @@
+<!-- navigation -->
+<header class="sticky-top bg-white">
+    <div class="container">
+      <nav class="navbar navbar-expand-lg navbar-light">
+        <a class="navbar-brand" href="{{ site.BaseURL | relLangURL }}">
+            <img src="/img/br-lt.png" alt="logo-black-rhinoo" class="sidebar-content-img" />
+        </a>
+        <div class="collapse navbar-collapse text-center" id="navigation">
+          <ul class="navbar-nav ml-auto pe-ul">
+            {{ range .Site.Params.navlinks }}
+            <li class="nav-item">
+                <a class="nav-link" href="{{ absURL .url }}">{{ .name }}</a>
+            </li>
+            {{ end }}
+          </ul>
+
+          {{ partial "social_buttons_in_sidebar.html" . }}
+        </div>
+      </nav>
+    </div>
+  </header>
+  <!-- /navigation -->
