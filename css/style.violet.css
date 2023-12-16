@@ -324,12 +324,6 @@ SIDEBAR + RIGHT COLUMN
     z-index: 0;
     padding: 0 1.7em 0 0em;
 }
-.sidebar-content-img {
-  max-height: 40px;
-  max-width: 60px;
-  margin-bottom: 1em;
-  margin-left: 1em;
-}
 
 @media screen and (min-width: 992px) {
   .sidebar-content {
@@ -2116,3 +2110,5 @@ a.list-group-item.active > .badge,
 .nav-pills > li > a > .badge {
   margin-left: 3px;
 }
+
+
