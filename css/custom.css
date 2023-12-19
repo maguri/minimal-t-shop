@@ -6,6 +6,14 @@
   background-repeat: no-repeat;
   background-size: cover;
 }
+
+.main-bg-color {
+  height: 100%;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-color: #fdf8f5;
+}
 /* your styles go here */
 .splide__slide img {
     width: 100%;
