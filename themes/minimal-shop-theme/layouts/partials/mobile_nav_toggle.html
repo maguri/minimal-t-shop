@@ -1,7 +1,7 @@
-<header class="sticky-top bg-white small-navbar visible-xs">
-  <div class="container">
-    <nav class="navbar navbar-expand-lg navbar-light text-center-mobile">
-      {{ partial "social_buttons_in_sidebar.html" . }}
+<header class="small-navbar visible-xs">
+  <button type="button" data-toggle="offcanvas" class="btn pull-left"> <i class="fa fa-align-left"> </i>Menu</button>
+  <div class="container sidebar-offcanvas">
+    <nav class="navbar-light">
       <ul class="navbar-nav">
         {{ range .Site.Params.navlinks }}
         <li class="nav-item">
@@ -9,6 +9,7 @@
         </li>
         {{ end }}
       </ul>
+      {{ partial "social_buttons_in_sidebar.html" . }}
     </nav>
   </div>
 </header>
