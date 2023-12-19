@@ -1,3 +1,7 @@
+body {
+  background-color: #fdf8f5;
+  height: 100%;
+}
 
 .main-bg {
   background-image: url("/img/background.avif");
@@ -5,14 +9,6 @@
   background-position: center;
   background-repeat: no-repeat;
   background-size: cover;
-}
-
-.main-bg-color {
-  height: 100%;
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  background-color: #fdf8f5;
 }
 /* your styles go here */
 .splide__slide img {
@@ -68,4 +64,8 @@
 .small-navbar-content-img {
   max-height: 30px;
   max-width: 30px;
+}
+
+.mt-20 {
+  margin-top: 20px;
 }
